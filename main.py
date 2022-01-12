@@ -95,7 +95,6 @@ class Test:
 
 # 主程序入口
 if __name__ == '__main__':
-    # 创建类的实例对象
     test = Test()
     # test.getDBs()
     # test.createColl()
